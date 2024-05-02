@@ -1,0 +1,27 @@
+table {
+	width: 50%;
+	min-width: 600px;
+	border: solid 2px black;
+	background-color: black;
+}
+th, td {
+	border: solid 1px black;
+	text-align: center;
+}
+th {
+	padding: 8px 0px;
+	font-size: larger;
+	color: white;
+	background-color: red;
+}
+td {
+	font-size: large;
+	background-color: #eeeeee;
+}
+
+a {
+	color: blue;
+}
+a:hover {
+	color: red;
+}
